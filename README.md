@@ -2,6 +2,8 @@
 
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=zjd1988&show_icons=true&theme=dark&count_private=true)
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zjd1988&theme=dark&layout=compact)
+
 <!--
 **zjd1988/zjd1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
